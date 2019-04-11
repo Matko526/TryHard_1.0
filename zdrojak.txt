@@ -2,3 +2,4 @@ jeden
 dva
 tri
 styri
+nieco
